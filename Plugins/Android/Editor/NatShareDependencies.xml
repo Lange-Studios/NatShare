@@ -1,0 +1,9 @@
+<dependencies>
+  <androidPackages>
+    <androidPackage spec="androidx.core:core:1.0.0-rc02">
+      <androidSdkPackageIds>
+        <androidSdkPackageId>extra-google-m2repository</androidSdkPackageId>
+      </androidSdkPackageIds>
+    </androidPackage>
+  </androidPackages>
+</dependencies>
